@@ -1,0 +1,265 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  margin-top: 58px;
+  margin-left: 175px;
+  font-size: 75px;
+  color: white;
+  font-family: "Questrial", sans-serif;
+}
+
+header {
+  padding: 2em;
+  background-image: linear-gradient(to right, black , #1e1d73);
+}
+
+header p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  margin-left: 200px;
+  margin-top: -53px;
+}
+
+header h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  margin-left: 200px;
+  margin-top: -148px;
+}
+
+header {
+  padding: 2em;
+  background-image: linear-gradient(to right, black , #1e1d73);
+}
+
+header img {
+  margin-left: 10px;
+  margin-top: -130px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+footer {
+  background-color: #050505;
+  padding: 1em;
+  text-align: center;
+  color: white;
+  width: 98.5%;
+  bottom: 0%;
+}
+
+.footer-home {
+  background-color: #050505;
+  padding: 1em;
+  text-align: center;
+  color: white;
+  width: 98.5%;
+  bottom: 0%;
+  margin-top: 120px;
+}
+
+.footer-curri {
+  background-color: #050505;
+  padding: 1em;
+  text-align: center;
+  color: white;
+  width: 98.5%;
+  bottom: 0%;
+  margin-top: 120px;
+}
+
+.projeto {
+  text-decoration: none;
+  color: white;
+  font-family: "Questrial", sans-serif;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 90%;
+}
+
+.curri {
+  text-decoration: none;
+  color: white;
+  font-family: "Questrial", sans-serif;
+  font-size: 30px;
+  margin-left: 89.1%;
+}
+
+.home {
+  text-decoration: none;
+  color: white;
+  font-family: "Questrial", sans-serif;
+  font-size: 30px;
+  margin-left: 93.6%;
+}
+
+.projeto:hover {
+  text-decoration: none;
+  color: rgb(199, 199, 199);
+  font-family: "Questrial", sans-serif;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 90%;
+}
+
+.curri:hover {
+  text-decoration: none;
+  color: rgb(199, 199, 199);
+  font-family: "Questrial", sans-serif;
+  font-size: 30px;
+  margin-left: 89.1%;
+}
+
+.home:hover {
+  text-decoration: none;
+  color: rgb(199, 199, 199);
+  font-family: "Questrial", sans-serif;
+  font-size: 30px;
+  margin-left: 93.6%;
+}
+
+.linha {
+  margin-left: -328px;
+  margin-top: 568px;
+  transform: rotate(90deg);
+  border: none; 
+  height: 5px;
+  width: 1020px; 
+  background-color: #1e1d73; 
+}
+
+.linha-curri {
+  margin-left: -626px;
+  margin-top: 868px;
+  transform: rotate(90deg);
+  border: none; 
+  height: 5px;
+  width: 1620px; 
+  background-color: #1e1d73; 
+}
+
+.linha2 {
+  margin-left: 250px;
+  margin-top: 60px;
+  border: none; 
+  height: 5px;
+  width: 1100px; 
+  background-color: #1e1d73; 
+}
+
+.linha3 {
+  margin-left: 250px;
+  margin-top: 60px;
+  border: none; 
+  height: 5px;
+  width: 800px; 
+  background-color: #1e1d73; 
+}
+
+.text-sobre {
+  text-align: justify;
+  margin-left: 290px;
+  margin-top: -308px;
+  font-size: 40px;
+  width: 1460px;
+}
+
+.hard {
+  text-align: justify;
+  margin-left: 270px;
+  margin-top: -808px;
+  font-size: 50px;
+  width: 1460px;
+}
+
+.projetos {
+  text-align: justify;
+  margin-left: 270px;
+  margin-top: -318px;
+  font-size: 50px;
+  width: 1460px;
+}
+
+.soft {
+  text-align: justify;
+  margin-left: 270px;
+  font-size: 50px;
+  width: 1460px;
+}
+
+.li-curriculo {
+  font-size: 30px;
+  margin-left: 270px;
+}
+
+.li-curriculo-formation {
+  font-size: 40px;
+  margin-left: 270px;
+  margin-top: -20px;
+}
+
+.li-curriculo-idioma {
+  font-size: 30px;
+  margin-left: 270px;
+  margin-top: -27px;
+}
+
+.formation {
+  font-size: 30px;
+  margin-left: 270px;
+  margin-top: 20px;
+}
+
+.text-project {
+  font-size: 35px;
+  margin-left: 270px;
+  margin-top: 25px;
+}
+
+.text-project2 {
+  text-align: justify;
+  font-size: 35px;
+  margin-left: 270px;
+  margin-top: 25px;
+}
+
+.link-jogo {
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+.link-github {
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+.text-sobre-sobre{
+  text-align: justify;
+  margin-left: 290px;
+  margin-top: -508px;
+  font-size: 40px;
+  width: 1360px;
+}
+
+.titlecontatos {
+  text-align: justify;
+  margin-left: 270px;
+  font-size: 50px;
+  width: 1460px;
+}
+
+.contatos1 {
+  text-align: justify;
+  margin-left: 290px;
+  margin-top: 0px;
+  font-size: 35px;
+  width: 1360px;
+}
