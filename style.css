@@ -162,6 +162,17 @@ footer {
   background-color: #1e1d73; 
 }
 
+
+.linha4 {
+  margin-left: -118px;
+  margin-top: 340px;
+  transform: rotate(90deg);
+  border: none; 
+  height: 5px;
+  width: 600px; 
+  background-color: #1e1d73; 
+}
+
 .text-sobre {
   text-align: justify;
   margin-left: 290px;
